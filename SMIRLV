@@ -1,5 +1,4 @@
-[UPD]
-v=1
-build=2.1
-des=Вышло новое обновление!
-upd=Чейнджлог
+[Script]
+Last_Version=2.1
+Last_Download=https://github.com/JackCatton/smirlv/blob/master/AutoHotkey%20Script%20(2).exe
+Last_Name=update.zip
